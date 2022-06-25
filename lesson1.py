@@ -1,5 +1,5 @@
 ''
-ghj
+g
 
 
 print('Problem 4')
