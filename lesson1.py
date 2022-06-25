@@ -97,6 +97,7 @@ a = int(input())
 print(a)
 print(type(a))
 # this is first commit 25 june 21:22 Adiko
+# this commit from test
 
 
 
