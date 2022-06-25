@@ -1,5 +1,5 @@
 ''
-fjaf
+
 
 print('Problem 4')
 print((17 * 3) > (12 * 5))
